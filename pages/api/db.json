@@ -1,0 +1,30 @@
+{
+    "data":[
+        {
+            "name":"neyo",
+            "id":1,
+            "details":"am number one ohh"
+        },
+        {
+            "name":"vic",
+            "id":2,
+            "details":"am number two ohh"
+        },
+        {
+            "name":"chi",
+            "id":3,
+            "details":"am number three ohh"
+        },
+        {
+            "name":"nedu",
+            "id":4,
+            "details":"am number four ohh"
+        },
+        {
+            "name":"esther",
+            "id":5,
+            "details":"am number five ohh"
+        }
+        
+    ]
+}
